@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Looking to use this space for some personal projects, specifically involving **AWS** and _DevOps_ tools. See you later :smiling_face_with_sunglasses: 
+Looking to use this space for some personal projects, specifically involving **AWS** and _DevOps_ tools. See you later 😎
